@@ -1,4 +1,5 @@
 # TestLoop
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/worrel/testloop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 TestLoop is a library that provides an automated execution and
 reloading of a cabal's test-suites whenever a haskell file is
